@@ -1,0 +1,20 @@
+{
+    "name": "gai/farm",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "squizlabs/php_codesniffer": "^3.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gai\\Farm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gai Palyan",
+            "email": "chadreed020788@yandex.ru"
+        }
+    ]
+}
